@@ -1,0 +1,24 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# 本机临时物（堆转储、容器数据卷等）
+*.hprof
+data/
